@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1ZK8ALFWEdDcBMn5C_NN-ZSoWcHXgSqZj](https://drive.google.com/drive/folders/1ZK8ALFWEdDcBMn5C_NN-ZSoWcHXgSqZj)
-
 - 💬 Ask me about **Web development, Application development**
 
 - 📫 How to reach me **ruchitaghate88@gmail.com**
@@ -18,7 +16,7 @@
 
 - ⚡ Fun fact **I am intresting.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
